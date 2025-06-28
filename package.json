@@ -9,7 +9,7 @@
     "dotenv": "^16.0.0",
     "express": "^4.18.2",
     "node-telegram-bot-api": "^0.61.0",
-    "puppeteer": "^21.3.8"
+    "puppeteer": "^21.3.8",
     "merge-descriptors": "^1.0.1",
   }
 }
